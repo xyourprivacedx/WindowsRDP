@@ -1,4 +1,4 @@
-name: CI
+name: xyourprivacedx
 
 on: workflow_dispatch
 
